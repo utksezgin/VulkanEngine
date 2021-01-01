@@ -1,0 +1,2 @@
+U:\VulkanEngine\VulkanEngine\Debug\VulkanEngine.exe
+U:\VulkanEngine\VulkanEngine\Debug\VulkanEngine.pdb
