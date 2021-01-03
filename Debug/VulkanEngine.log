@@ -1,2 +1,4 @@
 ﻿  main.cpp
+  VulkanRenderer.cpp
+  Generating Code...
   VulkanEngine.vcxproj -> U:\VulkanEngine\VulkanEngine\Debug\VulkanEngine.exe
